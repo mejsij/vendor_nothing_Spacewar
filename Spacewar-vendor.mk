@@ -9,8 +9,6 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/odm/etc/aac_richtap.config:$(TARGET_COPY_OUT_ODM)/etc/aac_richtap.config \
     vendor/nothing/Spacewar/proprietary/product/etc/permissions/telephony_product_privapp-permissions-qti.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/telephony_product_privapp-permissions-qti.xml \
     vendor/nothing/Spacewar/proprietary/system/etc/permissions/advancedSample_camera_extensions.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/advancedSample_camera_extensions.xml \
-    vendor/nothing/Spacewar/proprietary/system/etc/permissions/com.qualcomm.qti.Performance.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.qualcomm.qti.Performance.xml \
-    vendor/nothing/Spacewar/proprietary/system/etc/permissions/com.qualcomm.qti.UxPerformance.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.qualcomm.qti.UxPerformance.xml \
     vendor/nothing/Spacewar/proprietary/system/etc/permissions/se.dirac.acs.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/se.dirac.acs.xml \
     vendor/nothing/Spacewar/proprietary/system/etc/public.libraries.txt:$(TARGET_COPY_OUT_SYSTEM)/etc/public.libraries.txt \
     vendor/nothing/Spacewar/proprietary/system/etc/richtapresources/.DS_Store:$(TARGET_COPY_OUT_SYSTEM)/etc/richtapresources/.DS_Store \
